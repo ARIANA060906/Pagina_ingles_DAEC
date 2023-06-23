@@ -1,0 +1,14 @@
+    h1{
+         font-family:Goudy Stout ;
+    font-size: 200px;
+    }
+    h2{
+        font-size: 150px;
+    }
+.u{
+    color:purple;
+}
+
+    .img.izquierda {float: left;}
+    .img.derecha {float: right;}
+

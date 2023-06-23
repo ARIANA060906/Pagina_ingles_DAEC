@@ -1,0 +1,80 @@
+body{
+
+	background-image: url('azul.jpg');
+	background-repeat: no-repeat;
+}
+.cambio /*clase cambio*/
+{
+	color:Navy;
+	font-size:120px;
+}
+.mi{
+	font-size: 40px;
+}
+.po{
+	color:#D71947;
+	font-size:50px;
+}
+.h3{
+	font-size: 150px;
+}
+.claseuno
+{
+	color: black;
+	font-size:30px ;
+}
+.titulo{
+	color: Maroon;
+	font-size: 60px;
+}
+.ejercicios{
+	color:black;
+	font-size: 70px;
+}
+
+.resolver{
+	color: black;
+	font-size: 40px;
+}
+.fun{
+		color:Teal;
+	font-size: 40px;
+}
+.f{
+	color: blue;
+		font-size: 40px;
+
+}
+ h1{
+         font-family:Goudy Stout ;
+    font-size: 200px;
+    }
+    h2{
+        font-size: 150px;
+    }
+    .suma{
+    	color: blue;
+    	font-size: 80px;
+    }
+
+
+    .ar{
+    	color: black;
+    	font-size: 80px;
+
+    }
+    .clo{
+    	color:#DD5BC8 ;
+    	font-size: 55px;
+    }
+body{
+
+	background-image: url('azul.jpg');
+	background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+
+}
